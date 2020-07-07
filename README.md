@@ -1,5 +1,5 @@
 
-![](image/CabreiraLogo.png)
+![](images/CabreiraLogo.png)
 
 
 
@@ -18,5 +18,3 @@ I am an electrical engineer turned data scientist who loves leveraging data-driv
 Thereafter, I won a scholarship that allowed me to study at the University of Toronto in Canada. After this experience, I was given the opportunity to work with electrical projects and project management in a small company in Rio de Janeiro, Brazil. My third working contract involved tasks related to the project management of two electrical substation construction projects in a multinational company.
 
 Right now, I'm currently working as a Data Science Instructor for a famous DS platform. I am also working as a freelancer and writing content for DS platforms.
-
-S
