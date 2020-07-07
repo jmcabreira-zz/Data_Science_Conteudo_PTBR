@@ -11,10 +11,10 @@
 
 
  
- # About me :
+ # Sobre mim :
  
-I am an electrical engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society. My first encounter with data science occurred when I worked as a research analyst at the Applied Computational Intelligence Laboratory (Fluminense Federal University) in which I built Artificial Neural Network models for power forecast.
+Eu sou um engenheiro eletricista que se tornou cientista de dados e que ama alavancar soluções orientadas a dados que causam impacto nos negócios e na sociedade. Meu primeiro encontro com a ciência de dados ocorreu quando trabalhei como analista de pesquisa no Laboratório de Inteligência Computacional Aplicada (Universidade Federal Fluminense), no qual construí modelos de Rede Neural Artificial para previsão de geração eólica.
 
-Thereafter, I won a scholarship that allowed me to study at the University of Toronto in Canada. After this experience, I was given the opportunity to work with electrical projects and project management in a small company in Rio de Janeiro, Brazil. My third working contract involved tasks related to the project management of two electrical substation construction projects in a multinational company.
+Posteriormente, ganhei uma bolsa que me permitiu estudar na Universidade de Toronto, no Canadá. Após essa experiência, tive a oportunidade de trabalhar com projetos elétricos e gerenciamento de projetos em uma pequena empresa no Rio de Janeiro, Brasil. Meu terceiro contrato de trabalho envolvia tarefas relacionadas ao gerenciamento de dois projetos de construção de subestações elétricas em uma empresa multinacional.
 
-Right now, I'm currently working as a Data Science Instructor for a famous DS platform. I am also working as a freelancer and writing content for DS platforms.
+No momento, atualmente estou trabalhando como instrutor de ciência de dados para uma famosa plataforma DS. Também estou trabalhando como freelancer e escrevendo conteúdo para plataformas DS.
