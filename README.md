@@ -5,7 +5,7 @@
 
 # Content :
 
- - [Principal Component Analysis (PCA)](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/pca)
+ - [Principal Component Analysis e Normalização (PCA)](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/pca)
 
 
 
