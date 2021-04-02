@@ -7,6 +7,7 @@
 
  - [Principal Component Analysis e Normalização (PCA)](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/pca)
  - [Mensurar similaridade de textos](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/similaridade_de_textos)
+ - [Analisando tweets](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/similaridade_de_textos)
 
 
 
