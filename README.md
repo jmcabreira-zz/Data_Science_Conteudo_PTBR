@@ -7,8 +7,10 @@
 
  - [Principal Component Analysis e Normalização (PCA)](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/pca)
  - [Mensurar similaridade de textos](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/similaridade_de_textos)
- - [Analisando tweets](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/similaridade_de_textos)
-
+ - [Analisando tweets](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/twitter)
+ - [Identificando Outliers](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/identificando_outliers)
+ - [Dicas com Matplotlib](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Dicas-MatplotLib)
+ - [Decision Tree Aplicada em dados reais](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Decision_Tree_recomendador_carro)
 
 
  
