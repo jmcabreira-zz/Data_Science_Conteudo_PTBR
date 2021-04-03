@@ -25,7 +25,7 @@
 
  - [Decision Tree Aplicada em dados reais](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Decision_Tree_recomendador_carro)
  	
- 	<img align="left" alt="python" width="35px" src="https://marketingland.com/wp-content/ml-loads/2014/08/youtube-logo-1920.jpg" />
+ 	<img align="left" alt="python" width="35px" src="https://img1.gratispng.com/20180319/cgq/kisspng-youtube-play-button-logo-computer-icons-youtube-icon-app-logo-png-5ab067d1adea19.7836159015215103537124.jpg" />
 
  	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
 
