@@ -9,27 +9,33 @@
 
  - [Mensurar similaridade de textos](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/similaridade_de_textos)
 
-  	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=I57PUZzIFbs&t=800s)
+ 	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
+
+  	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=I57PUZzIFbs&t=800s)
 
  - [Coletando Dados do Twitter](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/twitter)
 
- 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=jErjFPYUC0Q&t=567s)
+ 	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
+
+ 	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=jErjFPYUC0Q&t=567s)
 
  - [Identificando Outliers](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/identificando_outliers)
 
- 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=xhHWlAUef2k&t=8s)
+ 	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
+
+ 	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=xhHWlAUef2k&t=8s)
 
  - [Dicas com Matplotlib](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Dicas-MatplotLib)
 
  	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
- 	
- 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=MnSRF0Gou3w)
+
+ 	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=MnSRF0Gou3w)
 
  - [Decision Tree Aplicada em dados reais](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Decision_Tree_recomendador_carro)
  	
  	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
 
- 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
+ 	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
 
 
  
