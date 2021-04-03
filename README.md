@@ -6,11 +6,26 @@
 # Content :
 
  - [Principal Component Analysis e Normalização (PCA)](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/pca)
+
  - [Mensurar similaridade de textos](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/similaridade_de_textos)
- - [Analisando tweets](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/twitter)
+
+  	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=I57PUZzIFbs&t=800s)
+
+ - [Coletando Dados do Twitter](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/twitter)
+
+ 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=jErjFPYUC0Q&t=567s)
+
  - [Identificando Outliers](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/identificando_outliers)
+
+ 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=xhHWlAUef2k&t=8s)
+
  - [Dicas com Matplotlib](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Dicas-MatplotLib)
+
+ 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=MnSRF0Gou3w)
+
  - [Decision Tree Aplicada em dados reais](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Decision_Tree_recomendador_carro)
+
+ 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
 
 
  
