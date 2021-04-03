@@ -24,8 +24,10 @@
  	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=MnSRF0Gou3w)
 
  - [Decision Tree Aplicada em dados reais](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Decision_Tree_recomendador_carro)
+ 	
+ 	<img align="left" alt="python" width="26px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-0.png" />
 
- 	-[https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-0.png](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
+ 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
 
 
  
