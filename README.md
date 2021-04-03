@@ -25,7 +25,7 @@
 
  - [Decision Tree Aplicada em dados reais](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/Decision_Tree_recomendador_carro)
 
- 	-[Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
+ 	-[https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-0.png](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
 
 
  
