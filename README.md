@@ -37,11 +37,7 @@
 
  	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=-vjAr3k-sus&t=2247s)
 
-- [Baixando dados do Twitter]https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/get_tweet_data)
- 	
- 	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
 
- 	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=jErjFPYUC0Q&t=576s)
 
  
  # Sobre mim :
