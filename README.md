@@ -7,6 +7,10 @@
 
  - [Silhouette Method - Identificando número de Clusters](https://www.youtube.com/watch?v=VP7kEUuswgg&t=572s)
 
+	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
+
+	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=VP7kEUuswgg&t=572s)
+
  - [Principal Component Analysis e Normalização (PCA)](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/pca)
 
  - [Mensurar similaridade de textos](https://github.com/jmcabreira/Data_Science_Conteudo_PTBR/tree/master/similaridade_de_textos)
