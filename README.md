@@ -5,6 +5,18 @@
 
 # Content :
 
+- [Classificando Imagens Com Pytorch ](https://www.youtube.com/watch?v=hOnrwaOWSdE&t=1124s)
+
+	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
+
+	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=hOnrwaOWSdE&t=1124s)
+
+- [Sua Primeira Rede Neural Com Pytorch ](https://www.youtube.com/watch?v=pQs7BCkqz9Q)
+
+	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
+
+	- [Click Aqui Para ver Vídeo](https://www.youtube.com/watch?v=pQs7BCkqz9Q)
+
  - [Silhouette Method - Identificando número de Clusters](https://www.youtube.com/watch?v=VP7kEUuswgg&t=572s)
 
 	<img align="left" alt="python" width="35px" src="http://s2.glbimg.com/tIZyJyit3HLDTkZMSbHKcM5ncCw=/0x0:695x489/695x489/s.glbimg.com/po/tt2/f/original/2016/01/22/youtube-logo.jpg" />
